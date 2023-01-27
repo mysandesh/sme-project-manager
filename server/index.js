@@ -1,5 +1,3 @@
-//Our Entry Point
-
 //Create a simple Express Server
 const express = require("express");
 require("dotenv").config();
