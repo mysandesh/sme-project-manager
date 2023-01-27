@@ -16,5 +16,17 @@
   "bugs": {
     "url": "https://github.com/mysandesh/sme-project-manager/issues"
   },
-  "homepage": "https://github.com/mysandesh/sme-project-manager#readme"
+  "homepage": "https://github.com/mysandesh/sme-project-manager#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.8.0",
+    "mongoose": "^6.9.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  }
 }
