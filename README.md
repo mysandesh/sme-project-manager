@@ -1,4 +1,4 @@
-# SME Project Manager Mgmt App
+# SME Project Manager App
 
 Project management app from Small and Medium Enterprises (SME)
 
