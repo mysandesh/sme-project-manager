@@ -2,6 +2,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Header from "./components/Header";
 import { ApolloProvider, ApolloClient, InMemoryCache } from "@apollo/client";
 import Home from "./pages/Home";
+import Project from "./pages/Project";
 import NotFound from "./pages/NotFound";
 
 const cache = new InMemoryCache({
