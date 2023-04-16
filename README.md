@@ -10,6 +10,6 @@ Client and Project Manager for Small to Medium Enterprises
 
 1. Install the dependencies
 2. Run the Backend Server with 'npm start' on root level
-3. Run the Client Server by navigating to client folder and doing 'npm start'
+3. Run the Client Server by navigating to client folder and running 'npm start'
 
-This will start backend, frontend and MongoDB.
+This will start the backend, frontend and MongoDB.
