@@ -8,7 +8,7 @@ Client and Project Manager for Small to Medium Enterprises
 
 ### Install
 
-1. Install the dependencies
+1. Install the dependencies.
 2. Run the Backend Server with 'npm start' on root level
 3. Run the Client Server by navigating to client folder and running 'npm start'
 
